@@ -29,3 +29,4 @@ Este projeto é voltado para a área da saúde e tem como objetivo criar um site
 - **Aviso de Precaução**: Inclua um aviso para que os usuários consultem um profissional de saúde antes de realizar os exercícios, especialmente se tiverem condições específicas.
 
 
+# Mateus é gay
